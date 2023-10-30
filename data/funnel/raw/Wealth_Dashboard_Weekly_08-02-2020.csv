@@ -1,0 +1,271 @@
+﻿#=================================================================
+"# Scotia Wealth Management "
+# Report suite: Scotiabank Prod
+"# Date: Aug 2, 2020 - Aug 8, 2020"
+# Segments: SWM
+#=================================================================
+
+
+##############################################
+# Operating Systems
+##############################################
+,Unique Visitors
+Operating Systems,3996
+Windows 10,1974
+OS X 10.15,341
+Mobile iOS 13.5.1,276
+Windows 7,215
+Android 10,136
+
+
+##############################################
+# Browsers
+##############################################
+,Unique Visitors
+Browser,3996
+Google Chrome 84.0,1250
+Safari 13.1,374
+Google Chrome 79.0,368
+Chrome Mobile 84.0,305
+Microsoft Internet Explorer 11,236
+
+
+##############################################
+# Device
+"# ""Unspecified"" typically refers to Desktop/Laptop"
+##############################################
+,Unique Visitors
+Mobile Device,3996
+None,2956
+Apple iPhone,559
+Apple iPad,138
+Samsung Galaxy S9 (SM-G960W),16
+Samsung Galaxy S8 (SM-G950W),15
+
+
+##############################################
+# Countries
+##############################################
+,Unique Visitors
+Countries,3996
+Canada,2429
+United States,605
+Mexico,435
+Peru,235
+Germany,37
+France,28
+United Kingdom,26
+India,23
+Bahamas,12
+Netherlands,10
+Hong Kong SAR of China,9
+Russian Federation,8
+Colombia,7
+New Zealand,6
+Argentina,6
+Finland,6
+Panama,6
+Nigeria,6
+Dominican Republic,5
+Chile,5
+Cyprus,5
+Spain,5
+Australia,5
+Philippines,5
+Switzerland,4
+South Africa,4
+Jamaica,4
+Uruguay,4
+Singapore,3
+Ecuador,3
+China,3
+Cayman Islands,3
+Brazil,3
+Italy,2
+Turkey,2
+Barbados,2
+Belgium,2
+Indonesia,2
+Austria,2
+Belarus,2
+Israel,2
+Pakistan,2
+Bolivia,2
+Costa Rica,1
+Guernsey,1
+Curacao,1
+Saint Kitts and Nevis,1
+Viet Nam,1
+Venezuela,1
+Bosnia and Herzegovina,1
+
+
+##############################################
+# Regions
+##############################################
+,Unique Visitors
+Regions,3996
+Ontario (Canada),1320
+Quebec (Canada),305
+British Columbia (Canada),304
+Alberta (Canada),263
+Ciudad De Mexico (Mexico),208
+Metropolitana De Lima (Peru),175
+New York (United States),97
+California (United States),95
+Nova Scotia (Canada),72
+Saskatchewan (Canada),59
+Arizona (United States),53
+New Brunswick (Canada),46
+Texas (United States),44
+Florida (United States),43
+Manitoba (Canada),41
+Mexico (Mexico),38
+Jalisco (Mexico),36
+New Jersey (United States),33
+Virginia (United States),28
+Bayern (Germany),26
+Ile-De-France (France),26
+Nuevo Leon (Mexico),26
+Georgia (United States),24
+La Libertad (Peru),23
+Washington (United States),21
+Pennsylvania (United States),18
+Iowa (United States),17
+Massachusetts (United States),16
+Newfoundland and Labrador (Canada),14
+Illinois (United States),14
+Wyoming (United States),14
+Coahuila (Mexico),13
+Chihuahua (Mexico),13
+Arequipa (Peru),12
+Prince Edward Island (Canada),12
+New Providence (Bahamas),12
+Baja California (Mexico),11
+Tamaulipas (Mexico),10
+Nevada (United States),10
+Noord-Holland (Netherlands),10
+Hong Kong (Hong Kong SAR of China),9
+North Carolina (United States),9
+Morelos (Mexico),9
+London (United Kingdom),8
+Guanajuato (Mexico),8
+Veracruz (Mexico),8
+Moskva (Russian Federation),8
+Puebla (Mexico),7
+Hessen (Germany),7
+Yucatan (Mexico),7
+
+
+#=================================================================
+"# Site Traffic "
+# Report suite: Scotiabank Prod
+"# Date: Aug 2, 2020 - Aug 8, 2020"
+# Segments: SWM
+#=================================================================
+
+
+##############################################
+# Traffic By Page Name
+##############################################
+,Unique Visitors
+Page,3990
+SB:en:swm:Home,1468
+SB:es:swm:Pagina principal,683
+SB:en:swm:ScotiaMcLeod,548
+SB:en:swm:ScotiaMcLeod online,302
+SB:en:swm:Private Banking,241
+SB:en:swm:Investment Management,227
+SB:en:swm:Contact us,180
+SB:en:swm:Scotiatrust,153
+SWM:Contact US,153
+SB:es:swm:Contrato de Inversion Scotiabank,147
+SB:en:swm:Private Investment Counsel,142
+SB:en:swm:About us,138
+SB:en:swm:Resource Centre,133
+SB:fr:swm:Accueil,129
+SB:en:swm:Total Wealth Planning,83
+SB:en:swm:Foundations,62
+SB:en:swm:J. P. Bickell Foundation General Charities Grant A,53
+SB:en:swm:J.P. Bickell Foundation,52
+SB:es:swm:Soluciones Financieras,48
+SB:es:swm:Nuestra identidad,28
+SB:es:swm:Contáctanos,27
+swm:Thank You,21
+SB:en:swm:Annual tax reporting,18
+SB:fr:swm:ScotiaMcLeod,18
+SB:en:swm:Tax slips checklist,17
+
+
+##############################################
+# Freeform table (2)
+##############################################
+,Unique Visitors
+Page URL (c19),3996
+https://www.scotiawealthmanagement.com/ca/en/home.html,1216
+https://www.scotiawealthmanagement.com/mx/es/pagina-principal.html,436
+https://www.scotiawealthmanagement.com/ca/en/home/investment-management/scotiamcleod.html,380
+https://www.scotiawealthmanagement.com/ca/en/home/resource-centre/scotiamcleod-online.html,296
+http://www.scotiawealthmanagement.com/intl/es/pagina-principal.html,179
+https://www.scotiawealthmanagement.com/ca/en/home/not-yet-a-client/contact-us.html,158
+https://www.scotiawealthmanagement.com/ca/en/home/private-banking.html,158
+https://www.scotiawealthmanagement.com/mx/es/pagina-principal/soluciones-de-inversian.html,149
+https://www.scotiawealthmanagement.com/ca/en/home/not-yet-a-client.html,147
+https://www.scotiawealthmanagement.com/ca/en/home/investment-management/private-investment-counsel.h,136
+https://www.scotiawealthmanagement.com/ca/en/home/resource-centre.html,130
+https://www.scotiawealthmanagement.com/ca/en/home/about-us.html,125
+https://www.scotiawealthmanagement.com/ca/en/home/investment-management.html,124
+https://www.scotiawealthmanagement.com/ca/en/home/scotiatrust.html,113
+https://www.scotiawealthmanagement.com/ca/fr/accueil.html,111
+https://www.scotiawealthmanagement.com/intl/en/home.html,102
+https://www.scotiawealthmanagement.com/ca/en/home/total-wealth-planning.html,80
+https://www.scotiawealthmanagement.com/intl/es/pagina-principal.html,69
+https://www.scotiawealthmanagement.com/ca/en/home/scotiatrust/foundations.html,59
+https://www.scotiawealthmanagement.com/ca/en/home/investment-management/scotiamcleod.html?cid=ps_d8c,57
+https://www.scotiawealthmanagement.com/ca/en/home/scotiatrust/jp-bickell-foundation/application-proc,53
+https://www.scotiawealthmanagement.com/mx/es/pagina-principal/soluciones-financieras.html,48
+https://www.scotiawealthmanagement.com/ca/en/home/scotiatrust/jp-bickell-foundation.html,47
+https://www.scotiawealthmanagement.com/ca/en/home/investment-management/scotiamcleod.html?cid=ps_6b1,45
+https://www.scotiawealthmanagement.com/ca/en/home/investment-management/scotiamcleod.html?cid=ps_dbf,42
+https://www.scotiawealthmanagement.com/ca/en/home/investment-management/scotiamcleod.html?cid=ps_319,39
+https://www.scotiawealthmanagement.com/ca/en/home.html?cid=ps_fb55f42fab4beb3c0f932c61c85bb7ec8c0bba,34
+https://www.scotiawealthmanagement.com/ca/en/home/private-banking.html?cid=ps_33eab951c6bf939d3733bb,34
+https://www.scotiawealthmanagement.com/ca/en/home.html?cid=ps_3d3b26954f3251cd7c985aea66e4dbad4ea207,34
+https://www.scotiawealthmanagement.com/ca/en/home.html?cid=ps_486f04868554f4dd0eac5d385a372dc87e9c1b,30
+https://www.scotiawealthmanagement.com/ca/en/home.html?cid=ps_a40c85517dee7e4040674a3388a40ac5c5de12,28
+https://www.scotiawealthmanagement.com/mx/es/pagina-principal/contactanos.html,27
+https://www.scotiawealthmanagement.com/intl/en/home/private-banking.html,25
+https://www.scotiawealthmanagement.com/ca/en/home/not-yet-a-client/thank-you.html,21
+https://www.scotiawealthmanagement.com/ca/en/home/investment-management.html?cid=ps_9e7e1803a44b632f,20
+https://www.scotiawealthmanagement.com/ca/en/home/scotiatrust.html?cid=ps_c46410836589c6872d3c2f3f39,19
+https://www.scotiawealthmanagement.com/ca/en/home/resource-centre/tax/tax-slips-checklist.html,17
+https://www.scotiawealthmanagement.com/mx/es/pagina-principal/nuestra-identidad.html,16
+https://www.scotiawealthmanagement.com/ca/fr/accueil/gestion-de-placements/scotiamcleod.html,15
+https://www.scotiawealthmanagement.com/intl/en/home/contact-us.html,15
+https://www.scotiawealthmanagement.com/ca/en/home/resource-centre/tax.html?cid=S1eTAX1218-001&utm_so,15
+https://www.scotiawealthmanagement.com/intl/en/home/wealth-structuring-and-trust.html,13
+https://www.scotiawealthmanagement.com/ca/en/home/private-banking.html?cid=ps_c9b4e8732af8e5945eec6e,13
+http://www.scotiawealthmanagement.com/ca/fr/accueil.html,13
+https://www.scotiawealthmanagement.com/ca/en/home.html?cid=ps_285a63386ca139158b2d3f17f4771d7591648b,12
+https://www.scotiawealthmanagement.com/intl/en/home/investment-management.html,12
+https://www.scotiawealthmanagement.com/ca/en/home.html?cid=ps_8e13e99db5ab1f319fb4e11cd00fbf0bb52d8f,11
+https://www.scotiawealthmanagement.com/ca/en/home/private-banking.html?cid=ps_ec266f98b9dae88d8ee63b,11
+https://www.scotiawealthmanagement.com/ca/fr/accueil/centre-de-ressources-scotiamcleod/scotiamcleod-,11
+https://www.scotiawealthmanagement.com/intl/es/pagina-principal/banca-privada.html,10
+
+
+#=================================================================
+# SWM Site Search
+# Report suite: Scotiabank Prod
+"# Date: Aug 2, 2020 - Aug 8, 2020"
+# Segments: SWM
+#=================================================================
+
+
+##############################################
+# Site Search
+##############################################
+,Internal Searches (e1),Avg Rank of Result Clicked (beta version)
+Internal Search (c1),0,
+
+

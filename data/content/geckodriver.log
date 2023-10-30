@@ -1,0 +1,43 @@
+1663956876916	geckodriver	INFO	Listening on 127.0.0.1:60248
+1663956879977	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\YIHAOF~1\\AppData\\Local\\Temp\\rust_mozprofileR3tgiD"
+1663956880960	Marionette	INFO	Marionette enabled
+1663956880970	Marionette	INFO	Listening on port 60265
+Read port: 60265
+1663956881545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YIHAOF~1\\AppData\\Local\\Temp\\rust_mozprofileR3tgiD\\search.json.mozlz4", (void 0)))
+JavaScript warning: http://web.archive.org/web/20200330111853js_/https://assets.adobedtm.com/1898c2c17628dda5007a311e849da172b72036a3/mbox-contents-5f85e92956d620ed41679a3dd9b1084abed0758a.js, line 25: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://web.archive.org/web/20200330111853js_/https://assets.adobedtm.com/1898c2c17628dda5007a311e849da172b72036a3/s-code-contents-01501dc14382254538fedf4614f4282643f2f0bf.js, line 83: TypeError: k.AppMeasurement is undefined
+1663956937828	Marionette	INFO	Stopped listening on port 60265
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\YIHAOF~1\AppData\Local\Temp\rust_mozprofileR3tgiD\protections.sqlite
+1663957259302	geckodriver	INFO	Listening on 127.0.0.1:60578
+1663957262354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\YIHAOF~1\\AppData\\Local\\Temp\\rust_mozprofilejWX9Jz"
+1663957263104	Marionette	INFO	Marionette enabled
+1663957263109	Marionette	INFO	Listening on port 60592
+Read port: 60592
+1663957263417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YIHAOF~1\\AppData\\Local\\Temp\\rust_mozprofilejWX9Jz\\search.json.mozlz4", (void 0)))
+JavaScript warning: http://web.archive.org/web/20200330111853js_/https://assets.adobedtm.com/1898c2c17628dda5007a311e849da172b72036a3/mbox-contents-5f85e92956d620ed41679a3dd9b1084abed0758a.js, line 25: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://web.archive.org/web/20200330111853js_/https://assets.adobedtm.com/1898c2c17628dda5007a311e849da172b72036a3/s-code-contents-01501dc14382254538fedf4614f4282643f2f0bf.js, line 83: TypeError: k.AppMeasurement is undefined
+1663957305707	Marionette	INFO	Stopped listening on port 60592
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\YIHAOF~1\AppData\Local\Temp\rust_mozprofilejWX9Jz\protections.sqlite
+1663957804757	geckodriver	INFO	Listening on 127.0.0.1:61094
+1663957807812	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\YIHAOF~1\\AppData\\Local\\Temp\\rust_mozprofilehmiMp8"
+1663957808573	Marionette	INFO	Marionette enabled
+1663957808580	Marionette	INFO	Listening on port 61108
+Read port: 61108
+1663957808971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YIHAOF~1\\AppData\\Local\\Temp\\rust_mozprofilehmiMp8\\search.json.mozlz4", (void 0)))
+JavaScript warning: http://web.archive.org/web/20200330111853js_/https://assets.adobedtm.com/1898c2c17628dda5007a311e849da172b72036a3/mbox-contents-5f85e92956d620ed41679a3dd9b1084abed0758a.js, line 25: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://web.archive.org/web/20200330111853js_/https://assets.adobedtm.com/1898c2c17628dda5007a311e849da172b72036a3/s-code-contents-01501dc14382254538fedf4614f4282643f2f0bf.js, line 83: TypeError: k.AppMeasurement is undefined
+1663957848008	Marionette	INFO	Stopped listening on port 61108
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\YIHAOF~1\AppData\Local\Temp\rust_mozprofilehmiMp8\protections.sqlite
+1664805255278	geckodriver	INFO	Listening on 127.0.0.1:59121
+1664805258367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\YIHAOF~1\\AppData\\Local\\Temp\\rust_mozprofileO7JiMP"
+1664805259332	Marionette	INFO	Marionette enabled
+1664805259339	Marionette	INFO	Listening on port 59138
+Read port: 59138
+1664805259934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YIHAOF~1\\AppData\\Local\\Temp\\rust_mozprofileO7JiMP\\search.json.mozlz4", (void 0)))
+1664805266069	Marionette	INFO	Stopped listening on port 59138
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1664808917366	geckodriver	INFO	Listening on 127.0.0.1:65031

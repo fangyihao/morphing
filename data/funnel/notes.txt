@@ -1,0 +1,7 @@
+1. If wealth the connect-with-us page is not present, shall we use the contact-us page instead?
+2. If the connect-with-us page and contact-us page are both in place, which one shall we use? Shall we calculate the sum of both numbers?
+3. Oct 24, 2021 is the transition date from the old page hierarchy to the new. What shall we specifically do on the date? 
+4. At the end of July, 2022, the number of unique visitors to https://www.scotiawealthmanagement.com/intl/en/home/contact-us.html and https://www.scotiawealthmanagement.com/intl/en/home.html/contact-us increases substantially. 
+How shall we deal with those data? 
+5. In the week of Oct 11, 2020, Wealth Management's thank-you page was not present. 
+6. For Wealth Management, shall we use the total number of unique visitor of all pages or the number of uique visitor of the home page as the number of awareness stage?

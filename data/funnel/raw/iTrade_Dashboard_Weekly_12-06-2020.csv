@@ -1,0 +1,535 @@
+﻿#=================================================================
+# General info
+# Report suite: Scotiabank Prod
+"# Date: Dec 6, 2020 - Dec 12, 2020"
+#=================================================================
+
+
+##############################################
+# iTrade
+##############################################
+Official Project Launch day:  Friday 6th August 2021
+URL: https://www.scotiaitrade.com/en/home.html
+Jira ticket : https://jira.agile.bns/browse/AADF-3107
+
+
+##############################################
+# How to use this Dashboard ?
+##############################################
+1 This dashboard is divided into multiple panels. All the panels are collapsed to increase the performance when dashboard loads.
+"2 To Expand each panel, please look for an ""Left"" arrow next to ""X"" button and click on it."
+
+"Please feel free to make changes to the dashboard, you can save your changes as your own copy. This dashboard will not be affected."
+	To save your own copy follow these steps
+Click on Project on the top
+Click on Save as
+Give appropriate name and save.
+It will be saved in Workspace section under you profile. you can share your save dashboard too. Just click on share button above.
+
+
+##############################################
+# Read Me to understand more about the Metrics used for analytics
+##############################################
+Page Views:  Number of time page was loaded.
+"Visits: A visit is defined as a sequence of consecutive page views without a 30-minute break, or continuous activity for 12 hours."
+"Unique visitor: A unique visitor refers to a visitor who visits a site for the first time within a 2 years period. If visitor clears browser cookies or does not allow cookies, unique visitor count will be incremented every time when page is visited."
+"Occurrences: The number of times a specific value is captured, plus the number of page views for which the given value persisted. In other words, Occurrences are sum of page views and page events. Occurrences are available in Analysis Workspace and in Ad Hoc Analysis."
+"Bounces: If a visit consists of exactly one hit (ex: coming to web page and leaving without any further action) , the hit is considered a bounce."
+Entries: the number of times a given dimension item is captured as the first value in a visit. This metric is helpful when you want to understand more about the first impressions visitors have on your site. Seeing the first values of a dimension can help you understand and optimize the experience a new visitor gets
+Bounce Rate (Bounces/Entries): the ratio of visits that contained exactly one hit compared to the number of visits on that page. This metric is calculated using the formula Bounces divided by Entries.
+Exits: The 'Exits' metric shows the number of times a given dimension item is captured as the last value in a visit.
+Exit Rate: The percentage of traffic to a page for whom that was the last page or piece of content. This metric is calculate using formula Exits divided by Visits
+
+
+#=================================================================
+# iTrade Dashboard - EN
+# Report suite: Scotiabank Global
+"# Date: Dec 6, 2020 - Dec 12, 2020"
+"# Segments: iTrade Hits, en"
+# URL: https://www.scotiaitrade.com/en/home.html
+# Jira ticket : https://jira.agile.bns/browse/AADF-3107
+#=================================================================
+
+
+##############################################
+# Pages Visited
+##############################################
+,Page Views,Visits,Unique Visitors,Time Spent per Visit (seconds)
+Page,95224,62031,37005,167.0267593643587
+SB:en:itrade:Start Direct Investing & Online Trading Today | Scotia iTRADE®,39372,34092,17183,80.46128283334092
+SB:en:itrade:Part-time barber. And Investor.,10774,9806,8011,105.93480662983426
+SB:en:itrade:Open a Trading/Investment Account Online | Scotia iTRADE®,10168,8409,7164,156.65219721329046
+"SB:en:itrade:Stock Trading Fees, Commissions & Interest Rates | Scotia iTRADE®",2539,2167,1969,148.59472934472936
+SB:en:itrade:Scotia iTRADE® Forms Library - Find all Forms Here,2284,1886,1291,323.69451697127937
+SB:en:itrade:Scotia iTRADE® Trading Desk™ - One Page Trading Console,1868,1660,911,70.14891696750902
+SB:en:itrade:Open a Practice Trading Account Online | Scotia iTRADE®,1487,1096,979,119.52827763496144
+SB:en:itrade:Contact Us - Customer Support | Scotia iTRADE®,1473,1374,1153,301.64932126696834
+SB:en:itrade:Existing Clients - FAQs | Scotia iTRADE®,1426,1227,977,194.38124054462935
+SB:en:itrade:Account Fees & Other Admin Charges | Scotia iTRADE®,1226,1033,937,216.20840064620356
+
+
+##############################################
+# URLs Visited
+##############################################
+,Page Views,Visits,Unique Visitors
+Page URL (c19),95224,62496,37215
+https://www.scotiaitrade.com/en/direct-investing-and-online-trading.html,36292,31417,15579
+https://www.scotiaitrade.com/en/direct-investing-and-online-trading/campaigns/get-up-to-1500-cash-6-,10904,9823,8019
+https://www.scotiaitrade.com/en/direct-investing-and-online-trading/open-an-account.html,9215,7596,6655
+https://www.scotiaitrade.com/en/direct-investing-and-online-trading/powerful-platforms/scotia-itrade,3074,2608,1694
+https://www.scotiaitrade.com/en/direct-investing-and-online-trading/forms-library.html,2283,2517,1647
+https://www.scotiaitrade.com/en/direct-investing-and-online-trading/why-scotia-itrade/how-to-make-it,3285,2251,2064
+https://www.scotiaitrade.com/en/direct-investing-and-online-trading/trading-fees/commissions-and-fee,2539,2232,2027
+https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/registered-acco,2283,1717,1500
+https://www.scotiaitrade.com/en/direct-investing-and-online-trading/why-scotia-itrade/special-offers,2127,1503,1332
+https://www.scotiaitrade.com/en/direct-investing-and-online-trading/faqs/contact-us.html,1470,1380,1158
+
+
+##############################################
+# Key CTAs Clicked
+##############################################
+,Occurrences,Visits,Unique Visitors
+Custom Link (c65),11,9,9
+Internal Search,11,9,9
+
+
+##############################################
+# Device Breakdown (Other = Desktop*)
+##############################################
+,Visits
+Mobile Device Type,62496
+Other,40252
+Mobile Phone,20096
+Tablet,2140
+Media Player,4
+Television,4
+
+
+##############################################
+# Entries and Bounce Rate
+##############################################
+,Entries,Bounce Rate
+Page,62200,0.4179099678456591
+SB:en:itrade:Start Direct Investing & Online Trading Today | Scotia iTRADE®,30746,0.37647173616080143
+SB:en:itrade:Part-time barber. And Investor.,8177,0.590681178916473
+SB:en:itrade:Open a Trading/Investment Account Online | Scotia iTRADE®,4616,0.7021230502599654
+phoenix:Login,2942,0
+SB:en:itrade:Scotia iTRADE® Trading Desk™ - One Page Trading Console,1393,0.35750179468772436
+BNS Home page en,989,0
+SB:en:itrade:Scotia iTRADE® Forms Library - Find all Forms Here,849,0.24263839811542992
+SB:en:itrade:Contact Us - Customer Support | Scotia iTRADE®,762,0.7624671916010499
+SB:en:itrade:Existing Clients - FAQs | Scotia iTRADE®,696,0.5632183908045977
+"SB:en:itrade:Stock Trading Fees, Commissions & Interest Rates | Scotia iTRADE®",621,0.49114331723027377
+
+
+##############################################
+# Marketing Channel Breakdown
+##############################################
+,Entries,Visits,Bounce Rate
+Marketing Channel,62496,62496,0.4190188172043011
+Natural Search,22836,24297,0.3957785952005605
+Referring Domains,19393,26474,0.2319909245604084
+Direct,12461,12224,0.6126314099991975
+Session Refresh,4431,4339,0.6743398781313473
+Paid Search,1654,1736,0.34280532043530837
+Display,1244,1259,0.9003215434083601
+Paid Social Networks,344,344,0.8517441860465116
+email,54,52,0.35185185185185186
+Social Networks,42,50,0.5238095238095238
+Other Campaigns,37,30,0.1891891891891892
+
+
+##############################################
+# Page Flow from Home Page
+##############################################
+Next
+Focus,Step 1,Path views
+SB:en:itrade:Start direct investing & online trading today | Scotia iTRADE®,,30134
+SB:en:itrade:Start direct investing & online trading today | Scotia iTRADE®,SB:en:itrade:Open a Trading/Investment Account Online | Scotia iTRADE®,
+SB:en:itrade:Start direct investing & online trading today | Scotia iTRADE®,SB:en:itrade:Part-time barber. And Investor.,
+SB:en:itrade:Start direct investing & online trading today | Scotia iTRADE®,SB:en:itrade:Scotia iTRADE® Forms Library - Find all Forms Here,
+SB:en:itrade:Start direct investing & online trading today | Scotia iTRADE®,SB:en:itrade:How to Make it Happen,
+SB:en:itrade:Start direct investing & online trading today | Scotia iTRADE®,"SB:en:itrade:Stock Trading Fees, Commissions & Interest Rates | Scotia iTRADE®",
+
+Previous
+Focus,Backstep 1,Path views
+SB:en:itrade:Start direct investing & online trading today | Scotia iTRADE®,,30134
+SB:en:itrade:Start direct investing & online trading today | Scotia iTRADE®,SB:en:itrade:Open a Trading/Investment Account Online | Scotia iTRADE®,606
+SB:en:itrade:Start direct investing & online trading today | Scotia iTRADE®,SB:en:itrade:Part-time barber. And Investor.,415
+SB:en:itrade:Start direct investing & online trading today | Scotia iTRADE®,SB:en:itrade:Scotia iTRADE® Forms Library - Find all Forms Here,201
+SB:en:itrade:Start direct investing & online trading today | Scotia iTRADE®,SB:en:itrade:Contact Us - Customer Support | Scotia iTRADE®,120
+SB:en:itrade:Start direct investing & online trading today | Scotia iTRADE®,SB:en:itrade:Scotia iTRADE® Trading Desk™ - One Page Trading Console,108
+SB:en:itrade:Start direct investing & online trading today | Scotia iTRADE®,Entries,27571
+SB:en:itrade:Start direct investing & online trading today | Scotia iTRADE®,+89 more,1113
+
+
+#=================================================================
+# iTrade Dashboard - FR
+# Report suite: Scotiabank Global
+"# Date: Dec 6, 2020 - Dec 12, 2020"
+"# Segments: iTrade Hits, fr"
+#=================================================================
+
+
+##############################################
+# Pages Visited
+##############################################
+,Page Views,Visits,Unique Visitors,Time Spent per Visit (seconds)
+Page,3767,2338,1712,183.1625570776256
+SB:fr:itrade:Commencez à investir et à gérer vos placements en ligne dès aujourd’hui | Scotia,1255,1062,579,51.152317880794705
+"SB:fr:itrade:Obtenez jusqu’à 1 500 $ et une commission de 6,99 $ OU jusqu’à 500 opérations su",587,562,540,141.38297872340425
+SB:fr:itrade:Ouvrez un compte de négociation/de placement en ligne | Scotia iTRADE,292,252,234,164.23333333333332
+SB:fr:itrade:Types de risque de placement – comment les gérer? | Scotia iTRADE,126,104,97,659.5625
+"SB:fr:itrade:Frais de négociation de titres, commissions et taux d’intérêt | Scotia iTRADE",115,97,90,140.83116883116884
+SB:fr:itrade:Formulaires Scotia iTRADE – Trouvez tous les formulaires ici,92,79,71,362.3333333333333
+SB:fr:itrade:Ouvrez un compte fictif de négociation en ligne | Scotia iTRADE,78,61,56,284.60526315789474
+SB:fr:itrade:Acheter des titres en bourse – Ouvrez un compte aujourd’hui | Scotia iTRADE,64,55,51,182.87878787878788
+SB:fr:itrade:Scotia iTRADE U – Ressources et outils gratuits,55,47,46,46.205882352941174
+SB:fr:itrade:Investissez avec Scotia iTRADE,55,41,41,100.82758620689656
+
+
+##############################################
+# URLs Visited
+##############################################
+,Page Views,Visits,Unique Visitors
+Page URL (c19),3767,2349,1717
+https://www.scotiaitrade.com/fr/investissement-direct-and-trading-en-ligne.html,1225,1035,555
+https://www.scotiaitrade.com/fr/investissement-direct-and-trading-en-ligne/french-campaigns/1500-et-,602,564,541
+https://www.scotiaitrade.com/fr/investissement-direct-and-trading-en-ligne/ouvrir-un-compte.html,290,251,233
+https://www.scotiaitrade.com/fr/investissement-direct-and-trading-en-ligne/tarification-concurrentie,191,127,113
+https://www.scotiaitrade.com/fr/investissement-direct-and-trading-en-ligne/formation/articles/compre,138,115,107
+(Low Traffic),160,108,100
+https://www.scotiaitrade.com/fr/investissement-direct-and-trading-en-ligne/options-de-placement/comp,114,92,84
+https://www.scotiaitrade.com/fr/investissement-direct-and-trading-en-ligne/ouvrir-un-compte/liste-de,92,90,78
+https://www.scotiaitrade.com/fr/investissement-direct-and-trading-en-ligne/pourquoi-scotia-itrade/of,112,80,71
+https://www.scotiaitrade.com/fr/investissement-direct-and-trading-en-ligne/pourquoi-scotia-itrade/co,117,79,72
+
+
+##############################################
+# Key CTAs Clicked
+##############################################
+,Occurrences,Visits,Unique Visitors
+Custom Link (c65),0,0,0
+
+
+##############################################
+# Device Breakdown (Other = Desktop*)
+##############################################
+,Visits
+Mobile Device Type,2349
+Other,1271
+Mobile Phone,1001
+Tablet,77
+
+
+##############################################
+# Entries and Bounce Rate
+##############################################
+,Entries,Bounce Rate
+Page,2344,0.5004266211604096
+SB:fr:itrade:Commencez à investir et à gérer vos placements en ligne dès aujourd’hui | Scotia,789,0.32192648922686945
+"SB:fr:itrade:Obtenez jusqu’à 1 500 $ et une commission de 6,99 $ OU jusqu’à 500 opérations su",505,0.8930693069306931
+SB:fr:itrade:Ouvrez un compte de négociation/de placement en ligne | Scotia iTRADE,116,0.7672413793103449
+SB:en:itrade:Start Direct Investing & Online Trading Today | Scotia iTRADE®,115,0
+SB:fr:itrade:Types de risque de placement – comment les gérer? | Scotia iTRADE,102,0.8529411764705882
+phoenix:Login,77,0
+SB:fr:itrade:Acheter des titres en bourse – Ouvrez un compte aujourd’hui | Scotia iTRADE,36,0.5555555555555556
+SB:en:itrade:Part-time barber. And Investor.,33,0
+SB:fr:itrade:Calendrier des congés fériés 2020 – Centre d'information pour les investisseurs |,32,0.96875
+SB:fr:itrade:Scotia iTRADE U – Ressources et outils gratuits,30,0.3333333333333333
+
+
+##############################################
+# Marketing Channel Breakdown
+##############################################
+,Entries,Visits,Bounce Rate
+Marketing Channel,2349,2349,0.5014899957428693
+Natural Search,797,742,0.4366373902132999
+Referring Domains,578,940,0.2837370242214533
+Direct,390,344,0.5
+Paid Social Networks,328,328,0.9420731707317073
+Session Refresh,224,219,0.6473214285714286
+Display,15,13,0.8
+Other Campaigns,7,9,0
+Social Networks,4,4,1
+Paid Search,4,0,0
+email,2,1,0.5
+
+
+##############################################
+# Page Flow from Home Page
+##############################################
+Next
+Focus,Step 1,Path views
+SB:fr:itrade:Commencez à investir et à gérer vos placements en ligne dès aujourd’hui | Scotia,,1063
+SB:fr:itrade:Commencez à investir et à gérer vos placements en ligne dès aujourd’hui | Scotia,SB:fr:itrade:Ouvrez un compte de négociation/de placement en ligne | Scotia iTRADE,67
+SB:fr:itrade:Commencez à investir et à gérer vos placements en ligne dès aujourd’hui | Scotia,"SB:fr:itrade:Obtenez jusqu’à 1 500 $ et une commission de 6,99 $ OU jusqu’à 500 opérations su",38
+SB:fr:itrade:Commencez à investir et à gérer vos placements en ligne dès aujourd’hui | Scotia,SB:fr:itrade:Formulaires Scotia iTRADE – Trouvez tous les formulaires ici,25
+SB:fr:itrade:Commencez à investir et à gérer vos placements en ligne dès aujourd’hui | Scotia,"SB:fr:itrade:Frais de négociation de titres, commissions et taux d’intérêt | Scotia iTRADE",17
+SB:fr:itrade:Commencez à investir et à gérer vos placements en ligne dès aujourd’hui | Scotia,SB:fr:itrade:Investissez avec Scotia iTRADE,16
+SB:fr:itrade:Commencez à investir et à gérer vos placements en ligne dès aujourd’hui | Scotia,Exits,887
+SB:fr:itrade:Commencez à investir et à gérer vos placements en ligne dès aujourd’hui | Scotia,+31 more,106
+
+Previous
+Focus,Backstep 1,Path views
+SB:fr:itrade:Commencez à investir et à gérer vos placements en ligne dès aujourd’hui | Scotia,,1063
+SB:fr:itrade:Commencez à investir et à gérer vos placements en ligne dès aujourd’hui | Scotia,SB:fr:itrade:Ouvrez un compte de négociation/de placement en ligne | Scotia iTRADE,20
+SB:fr:itrade:Commencez à investir et à gérer vos placements en ligne dès aujourd’hui | Scotia,"SB:fr:itrade:Obtenez jusqu’à 1 500 $ et une commission de 6,99 $ OU jusqu’à 500 opérations su",14
+SB:fr:itrade:Commencez à investir et à gérer vos placements en ligne dès aujourd’hui | Scotia,SB:fr:itrade:Confidentialité et sécurité | Scotia iTRADE,6
+SB:fr:itrade:Commencez à investir et à gérer vos placements en ligne dès aujourd’hui | Scotia,"SB:fr:itrade:Frais de négociation de titres, commissions et taux d’intérêt | Scotia iTRADE",6
+SB:fr:itrade:Commencez à investir et à gérer vos placements en ligne dès aujourd’hui | Scotia,FAQ:Contactez-nous,4
+SB:fr:itrade:Commencez à investir et à gérer vos placements en ligne dès aujourd’hui | Scotia,Entries,1065
+SB:fr:itrade:Commencez à investir et à gérer vos placements en ligne dès aujourd’hui | Scotia,+25 more,41
+
+
+#=================================================================
+# CTAs Clicked - EN
+# Report suite: Scotiabank Global
+"# Date: Dec 6, 2020 - Dec 12, 2020"
+# Segments: iTrade Hits
+#=================================================================
+
+
+##############################################
+# Start direct investing -  CTAs
+##############################################
+,Occurrences,Visits,Unique Visitors
+Custom Link (c65),0,0,0
+
+
+##############################################
+# Getting started - CTAs
+##############################################
+,Occurrences,Visits,Unique Visitors
+Custom Link (c65),0,0,0
+
+
+##############################################
+# Growing and Investing - CTAs
+##############################################
+,Occurrences,Visits,Unique Visitors
+Custom Link (c65),0,0,0
+
+
+##############################################
+# Planning for Retirement - CTAs
+##############################################
+,Occurrences,Visits,Unique Visitors
+Custom Link (c65),0,0,0
+
+
+##############################################
+# In Retirement- CTAs
+##############################################
+,Occurrences,Visits,Unique Visitors
+Custom Link (c65),0,0,0
+
+
+##############################################
+# Bonds - CTAs
+##############################################
+,Occurrences,Visits,Unique Visitors
+Custom Link (c65),0,0,0
+
+
+##############################################
+# Invest in low cost ETF's - CTAs
+##############################################
+,Occurrences,Visits,Unique Visitors
+Custom Link (c65),0,0,0
+
+
+##############################################
+"# Invest in GIC's - CTAs "
+##############################################
+,Occurrences,Visits,Unique Visitors
+Custom Link (c65),0,0,0
+
+
+##############################################
+# Invest in Mutual Funds- CTAs
+##############################################
+,Occurrences,Visits,Unique Visitors
+Custom Link (c65),0,0,0
+
+
+##############################################
+# Open Options Trading Account -  CTAs
+##############################################
+,Occurrences,Visits,Unique Visitors
+Custom Link (c65),0,0,0
+
+
+##############################################
+# Buy Stocks from Equity Market -  CTAs
+##############################################
+,Occurrences,Visits,Unique Visitors
+Custom Link (c65),0,0,0
+
+
+##############################################
+# Registered Accounts -  CTAs
+##############################################
+,Occurrences,Visits,Unique Visitors
+Custom Link (c65),0,0,0
+
+
+##############################################
+# Non Personal Accounts -  CTAs
+##############################################
+,Occurrences,Visits,Unique Visitors
+Custom Link (c65),0,0,0
+
+
+##############################################
+# Non  Registered Accounts -  CTAs
+##############################################
+,Occurrences,Visits,Unique Visitors
+Custom Link (c65),0,0,0
+
+
+##############################################
+# Registered Education Savings Plan -  CTAs
+##############################################
+,Occurrences,Visits,Unique Visitors
+Custom Link (c65),0,0,0
+
+
+##############################################
+# Registered Retirement Income Funds -  CTAs
+##############################################
+,Occurrences,Visits,Unique Visitors
+Custom Link (c65),0,0,0
+
+
+##############################################
+# Registered Retirement Savings Plan -  CTAs
+##############################################
+,Occurrences,Visits,Unique Visitors
+Custom Link (c65),0,0,0
+
+
+##############################################
+# Tax Free Savings Accounts -  CTAs
+##############################################
+,Occurrences,Visits,Unique Visitors
+Custom Link (c65),0,0,0
+
+
+##############################################
+# US Dollar Accounts -  CTAs
+##############################################
+,Occurrences,Visits,Unique Visitors
+Custom Link (c65),0,0,0
+
+
+##############################################
+# Open a Practice Trading Account -  CTAs
+##############################################
+,Occurrences,Visits,Unique Visitors
+Custom Link (c65),0,0,0
+
+
+##############################################
+# Open a Trading/Investing Account -  CTAs
+##############################################
+,Occurrences,Visits,Unique Visitors
+Custom Link (c65),0,0,0
+
+
+##############################################
+# Learning Center -  CTAs
+##############################################
+,Occurrences,Visits,Unique Visitors
+Custom Link (c65),0,0,0
+
+
+##############################################
+# Why iTRADE -  CTAs
+##############################################
+,Occurrences,Visits,Unique Visitors
+Custom Link (c65),0,0,0
+
+
+##############################################
+# Where to Start -  CTAs
+##############################################
+,Occurrences,Visits,Unique Visitors
+Custom Link (c65),0,0,0
+
+
+##############################################
+# Open an Account -  CTAs
+##############################################
+,Occurrences,Visits,Unique Visitors
+Custom Link (c65),0,0,0
+
+
+#=================================================================
+# App Starts and Completions - EN + FR
+# Report suite: Scotiabank Global
+"# Date: Dec 6, 2020 - Dec 12, 2020"
+# Segments: iTrade Hits + Application Process
+#=================================================================
+
+
+##############################################
+# App Starts
+##############################################
+,Visits,customer
+,Visits,Visits
+Page,3751,2296
+/en/application/accounts,3443,2079
+your-information,3187,1885
+/en/application/your-information,2491,1409
+/en/application/your-information/additional,2147,1179
+/en/application/your-information/banking,2090,1150
+/en/application/your-information/communication,2072,1134
+/fr/application/accounts,149,98
+/fr/application/your-information,86,53
+/fr/application/your-information/additional,81,45
+/fr/application/your-information/communication,78,43
+
+
+##############################################
+# App Completions
+##############################################
+,Visits,customer
+,Visits,Visits
+Page,1494,1094
+account-confirmation,1492,1090
+/en/application/account-confirmation,210,166
+/fr/application/account-confirmation,12,9
+
+
+##############################################
+# App Starts (Desktop Vs Mobile)
+##############################################
+,Visits from Mobile Devices,Visits from Mobile Devices,Visits from Non-Mobile Devices,Visits from Non-Mobile Devices
+,Visits,customer,Visits,customer
+,Visits,Visits,Visits,Visits
+Page,760,411,2991,1885
+/en/application/accounts,703,384,2740,1695
+your-information,650,336,2537,1549
+/en/application/your-information,460,239,2031,1170
+/en/application/your-information/additional,334,168,1813,1011
+/en/application/your-information/banking,309,153,1781,997
+/en/application/your-information/communication,305,149,1767,985
+/fr/application/accounts,22,11,127,87
+/fr/application/your-information,10,5,76,48
+/fr/application/your-information/additional,8,3,73,42
+/fr/application/your-information/communication,8,3,70,40
+
+
+##############################################
+# App Completions (Desktop Vs Mobile)
+##############################################
+,Visits from Mobile Devices,Visits from Mobile Devices,Visits from Non-Mobile Devices,Visits from Non-Mobile Devices
+,Visits,customer,Visits,customer
+,Visits,Visits,Visits,Visits
+Page,180,89,1314,1005
+account-confirmation,179,88,1313,1002
+/en/application/account-confirmation,35,20,175,146
+/fr/application/account-confirmation,0,0,12,9
+
+

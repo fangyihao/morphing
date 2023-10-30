@@ -1,0 +1,330 @@
+﻿#=================================================================
+"# Scotia Wealth Management "
+# Report suite: Scotiabank Prod
+"# Date: Jul 18, 2021 - Jul 24, 2021"
+# Segments: SWM
+#=================================================================
+
+
+##############################################
+# Operating Systems
+##############################################
+,Unique Visitors
+Operating Systems,4286
+Windows 10,2270
+Mobile iOS 14.6,540
+OS X 10.15,470
+Android 11,156
+Android 10,142
+
+
+##############################################
+# Browsers
+##############################################
+,Unique Visitors
+Browser,4286
+Google Chrome 91.0,1341
+Safari 14.1,412
+Chrome Mobile 91.0,335
+Microsoft Edge 91.0,289
+Google Chrome 79.0,219
+
+
+##############################################
+# Device
+"# ""Unspecified"" typically refers to Desktop/Laptop"
+##############################################
+,Unique Visitors
+Mobile Device,4286
+None,3101
+Apple iPhone,620
+Apple iPad,117
+Samsung Galaxy S9 (SM-G960W),20
+Samsung Galaxy S10 (SM-G973W),16
+
+
+##############################################
+# Countries
+##############################################
+,Unique Visitors
+Countries,4286
+Canada,2987
+United States,451
+Peru,210
+Mexico,180
+Russian Federation,93
+India,53
+Germany,23
+United Kingdom,22
+Finland,19
+Netherlands,19
+France,16
+Bahamas,12
+Austria,12
+Italy,11
+Greece,10
+Trinidad and Tobago,10
+Hong Kong SAR of China,9
+Nigeria,9
+Australia,9
+South Africa,8
+Jamaica,8
+Spain,8
+Pakistan,8
+Philippines,8
+Colombia,7
+Singapore,6
+Chile,6
+Brazil,5
+Costa Rica,4
+Barbados,4
+Taiwan region,4
+Portugal,4
+Uruguay,4
+Malaysia,4
+Dominican Republic,3
+Ukraine,3
+Israel,3
+Cayman Islands,3
+United Arab Emirates,2
+Cyprus,2
+Argentina,2
+Panama,2
+Thailand,2
+Mauritius,2
+Bangladesh,2
+Haiti,1
+Curacao,1
+Uzbekistan,1
+Saudi Arabia,1
+Serbia,1
+
+
+##############################################
+# Regions
+##############################################
+,Unique Visitors
+Regions,4286
+Ontario (Canada),1704
+British Columbia (Canada),378
+Quebec (Canada),332
+Alberta (Canada),312
+Metropolitana De Lima (Peru),176
+Nova Scotia (Canada),95
+Ciudad De Mexico (Mexico),80
+Texas (United States),68
+California (United States),57
+New York (United States),55
+Manitoba (Canada),54
+Moskva (Russian Federation),43
+Saskatchewan (Canada),42
+New Brunswick (Canada),41
+Washington (United States),40
+Oregon (United States),33
+Virginia (United States),30
+Iowa (United States),25
+Newfoundland and Labrador (Canada),24
+Wyoming (United States),24
+Uusimaa (Finland),19
+Florida (United States),18
+Noord-Holland (Netherlands),18
+Jalisco (Mexico),15
+Maharashtra (India),15
+Bayern (Germany),14
+Mexico (Mexico),13
+Ile-De-France (France),13
+New Jersey (United States),13
+Nuevo Leon (Mexico),13
+Louisiana (United States),12
+Wien (Austria),11
+Delaware (United States),10
+New Providence (Bahamas),10
+Hong Kong (Hong Kong SAR of China),9
+Samarskaya Oblast (Russian Federation),9
+Prince Edward Island (Canada),9
+Attiki (Greece),9
+Roma (Italy),8
+La Libertad (Peru),8
+Colorado (United States),8
+Guanajuato (Mexico),8
+Michigan (United States),8
+Lagos (Nigeria),8
+Arequipa (Peru),7
+Gauteng (South Africa),7
+Altayskiy Kray (Russian Federation),7
+Port of Spain (Trinidad and Tobago),7
+Sankt-Peterburg (Russian Federation),7
+Central (Singapore),6
+
+
+#=================================================================
+"# Site Traffic "
+# Report suite: Scotiabank Prod
+"# Date: Jul 18, 2021 - Jul 24, 2021"
+# Segments: SWM
+#=================================================================
+
+
+##############################################
+# Traffic Flow Flow
+##############################################
+Next
+Focus,Step 1,Path views
+GWM:Home,,0
+GWM:Home,English,1
+
+
+##############################################
+# Traffic By Page Name
+##############################################
+,Unique Visitors
+Page,4285
+SB:en:swm:Wealth Management Canada - Scotia Wealth Management,1803
+SB:en:swm:ScotiaMcLeod,590
+SB:es:swm:Pagina principal,442
+SB:en:swm:ScotiaMcLeod online,299
+SB:en:swm:The Scotiabank Women Initiative,243
+SB:en:swm:Private Banking,241
+SB:en:swm:Scotiatrust,239
+SB:en:swm:Contact us,223
+SB:en:swm:Investment Management Services Canada,186
+SWM:Contact US,177
+SB:en:swm:About us,152
+SB:en:swm:Resource Centre,134
+SB:en:swm:Total Wealth Planning,109
+SB:fr:swm:Accueil,103
+SB:en:swm:Private Investment Counsel,102
+SB:en:swm:Foundations,91
+SB:en:swm:J.P. Bickell Foundation,66
+SB:en:swm:Home,62
+SB:en:swm:J. P. Bickell Foundation General Charities Grant A,36
+SB:en:swm:Explore Your Priorities tool,35
+swm:Thank You,27
+SB:es:swm:Banca Privada,27
+SB:es:swm:Contrato de Inversion Scotiabank,26
+SB:es:swm:Contáctanos,25
+SB:es:swm:Gestión de Inversiones,24
+
+
+##############################################
+# Freeform table (2)
+##############################################
+,Unique Visitors
+Page URL (c19),4286
+https://www.scotiawealthmanagement.com/ca/en/home.html,1499
+https://www.scotiawealthmanagement.com/ca/en/home/investment-management/scotiamcleod.html,395
+https://www.scotiawealthmanagement.com/ca/en/home/resource-centre/scotiamcleod-online.html,298
+https://www.scotiawealthmanagement.com/ca/en/home/the-scotiabank-women-initiative.html,232
+https://www.scotiawealthmanagement.com/intl/es/pagina-principal.html,217
+https://www.scotiawealthmanagement.com/ca/en/home/not-yet-a-client/contact-us.html,201
+https://www.scotiawealthmanagement.com/ca/en/home/private-banking.html,201
+https://www.scotiawealthmanagement.com/ca/en/home/not-yet-a-client.html,173
+https://www.scotiawealthmanagement.com/ca/en/home/about-us.html,145
+https://www.scotiawealthmanagement.com/ca/en/home/resource-centre.html,134
+https://www.scotiawealthmanagement.com/ca/en/home/investment-management.html,133
+https://www.scotiawealthmanagement.com/ca/en/home/scotiatrust.html,127
+https://www.scotiawealthmanagement.com/mx/es/pagina-principal.html,118
+https://www.scotiawealthmanagement.com/ca/en/home/investment-management/private-investment-counsel.h,100
+https://www.scotiawealthmanagement.com/ca/fr/accueil.html,98
+https://www.scotiawealthmanagement.com/ca/en/home/scotiatrust/foundations.html,87
+https://www.scotiawealthmanagement.com/ca/en/home/investment-management/scotiamcleod.html?gclid=EAIa,83
+https://www.scotiawealthmanagement.com/ca/en/home/total-wealth-planning.html,82
+https://www.scotiawealthmanagement.com/ca/en/home/scotiatrust/jp-bickell-foundation.html,64
+https://www.scotiawealthmanagement.com/ca/en/home/investment-management/scotiamcleod.html?gclid=Cj0K,59
+https://www.scotiawealthmanagement.com/intl/en/home.html,54
+https://www.scotiawealthmanagement.com/ca/en/home/investment-management/scotiamcleod.html?gclid=CjwK,45
+https://www.scotiawealthmanagement.com/ca/en/home/scotiatrust/jp-bickell-foundation/application-proc,36
+https://www.scotiawealthmanagement.com/ca/en/home/the-scotiabank-women-initiative/knowledge-centre/e,35
+https://www.scotiawealthmanagement.com/ca/en/home/not-yet-a-client/thank-you.html,27
+https://www.scotiawealthmanagement.com/intl/es/pagina-principal/banca-privada.html,27
+https://www.scotiawealthmanagement.com/mx/es/pagina-principal/soluciones-de-inversian.html,26
+https://www.scotiawealthmanagement.com/intl/es/pagina-principal/gestin-de-inversiones.html,24
+https://www.scotiawealthmanagement.com/ca/en/home/the-scotiabank-women-initiative/about-us.html,24
+https://www.scotiawealthmanagement.com/intl/en/home/contact-us.html,23
+https://www.scotiawealthmanagement.com/mx/es/pagina-principal/contactanos.html,23
+https://www.scotiawealthmanagement.com/ca/en/home/resource-centre/conflicts-of-interest.html,23
+https://www.scotiawealthmanagement.com/ca/en/home/the-scotiabank-women-initiative/knowledge-centre.h,22
+https://www.scotiawealthmanagement.com/ca/en/home/resource-centre/tax/tax-slips-checklist.html,22
+https://www.scotiawealthmanagement.com/ca/en/home/investment-management/scotiamcleod.html?gclsrc=aw.,21
+https://www.scotiawealthmanagement.com/intl/en/home/private-banking.html,18
+https://www.scotiawealthmanagement.com/mx/es/pagina-principal/soluciones-financieras.html,15
+https://www.scotiawealthmanagement.com/ca/en/home/resource-centre/tax.html?cid=S1eTAX1218-001&utm_so,14
+https://www.scotiawealthmanagement.com/ca/en/home/resource-centre/forms-and-documents.html,13
+https://www.scotiawealthmanagement.com/ca/en/home/resource-centre/tax/important-tax-dates.html,13
+https://www.scotiawealthmanagement.com/intl/es/pagina-principal/contacte-su-oficina-local.html,12
+https://www.scotiawealthmanagement.com/intl/es/pagina-principal/nuestra-identidad.html,12
+https://www.scotiawealthmanagement.com/intl/en/home/investment-management.html,10
+https://www.scotiawealthmanagement.com/ca/en/home/resource-centre/tax.html,10
+https://www.scotiawealthmanagement.com/intl/en/home/wealth-structuring-and-trust.html,10
+https://www.scotiawealthmanagement.com/ca/en/home/investment-management.html?gclid=Cj0KCQjw6NmHBhD2A,10
+https://www.scotiawealthmanagement.com/ca/fr/accueil/gestion-de-placements/scotiamcleod.html,9
+https://www.scotiawealthmanagement.com/ca/fr/accueil/communiquez-avec-nous.html,9
+https://www.scotiawealthmanagement.com/ca/en/home/resource-centre/scotiamcleod-declaration-of-trust-,9
+https://www.scotiawealthmanagement.com/ca/en/home.html?cid=ps_fb55f42fab4beb3c0f932c61c85bb7ec8c0bba,8
+
+
+#=================================================================
+# SWM Site Search
+# Report suite: Scotiabank Prod
+"# Date: Jul 18, 2021 - Jul 24, 2021"
+# Segments: SWM
+#=================================================================
+
+
+##############################################
+# Site Search
+##############################################
+,Internal Searches (e1),Avg Rank of Result Clicked (beta version)
+Internal Search (c1),57,
+succursale de québec,2,0
+precio de compra de dolar,2,0
+eric moore,2,0
+governance,1,7
+fees for scotia private banking,1,2
+regular account,1,2
+succursale ville de québec,1,2
+declaration of trust registered plans,1,2
+tax,1,1
+conflicts of interest,1,1
+custody,1,1
+fund manager,1,1
+=dividends,1,1
+scotia wealth management fax number,1,1
+video,1,1
+administration,1,1
+group plans,1,1
+grant reporting,1,0
+email address,1,0
+terence wong,1,0
+blossom foundation,1,0
+wealthmangement online,1,0
+yellin,1,0
+comisiones,1,0
+virk,1,0
+reviews,1,0
+branches,1,0
+succursale montréal,1,0
+alley pyle,1,0
+kelly hernandez,1,0
+robert brault,1,0
+investor guide,1,0
+md management,1,0
+fax number,1,0
+email,1,0
+guía de servicios de inversión,1,0
+fees,1,0
+taylor wvenue,1,0
+chalmers,1,0
+steve bennet,1,0
+robert walker,1,0
+stan wong wealth manager,1,0
+alberta beach locations,1,0
+stan wong group,1,0
+margin,1,0
+tyler allen,1,0
+rawji,1,0
+guia de inversion,1,0
+fee structure,1,0
+farewell,1,0
+
+
